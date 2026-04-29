@@ -2,6 +2,7 @@ s.boot;
 
 // #IHateMyDAW :) 28/04/26
 // Mutable Instruments Elements, the way Emilie Gillet, my crush, intended the module to be used, incorrectly. 
+// Needs mi-Ugens to work, see https://github.com/v7b1/mi-UGens
 
 ~hhcnineohnine = Buffer.read(s, "HHCDA.WAV").bufnum; //0 (N.B CHANGE THESE TO YOUR OWN SAMPLES AND WRITE THE PRINTED VALUE HERE!)
 ~hhonineohnine = Buffer.read(s, "HHODA.WAV").bufnum; //1 (N.B CHANGE THESE TO YOUR OWN SAMPLES AND WRITE THE PRINTED VALUE HERE!)
